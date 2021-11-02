@@ -4,7 +4,13 @@
 
 ## Descrição
 
-<p>O projeto é uma consulta do tempo através da API do <a href="https://www.weatherapi.com/api-explorer.aspx">Weather API</a></p>
+<p>O projeto é uma consulta do tempo através da API do <a href="https://www.weatherapi.com/api-explorer.aspx" target="_blank">Weather API</a></p>
+
+## Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79dec243-836e-426a-803f-155eadbb4d0d/deploy-status)](https://app.netlify.com/sites/consultatempo/deploys)
+
+<p>Projeto upado para exibição na plataforma <a href="https://consultatempo.netlify.app/" target="_blank">Netlify </a></p>
 
 ### Features
 
